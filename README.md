@@ -16,6 +16,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Html
 - Css
 - JavaScript
-
-### 🔗 Acesso ao projeto
-<p>Link do projeto https://uniwise.000webhostapp.com/</p>
