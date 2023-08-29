@@ -17,4 +17,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Css
 - JavaScript
 
-### 🔗 Link do projeto hospedado: http://uniwise.lovestoblog.com/
+
