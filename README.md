@@ -16,6 +16,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Html
 - Css
 - JavaScript
+- Bootstrap
 
 ### Link do projeto: http://uniwise.wuaze.com
 
